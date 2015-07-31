@@ -66,6 +66,7 @@ These are the [npm][npm] packages that are currently globally installed.
 - [dogesay][dogesay]
 - [eslint][eslint]
 - [faucet][faucet]
+- [forever][forever]
 - [fraktur][fraktur]
 - [generator-gulp-webapp][generator-gulp-webapp]
 - [gulp][gulp]
@@ -78,7 +79,9 @@ These are the [npm][npm] packages that are currently globally installed.
 - [n][n]
 - [node-inspector][node-inspector]
 - [node-libs-browser][node-libs-browser]
+- [nodemon][nodemon]
 - [npm][npmnpm]
+- [pm2][pm2]
 - [redis-commander][redis-commander]
 - [standard][standard]
 - [tape][tape]
@@ -190,6 +193,7 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 [dogesay]: https://npmjs.com/dogesay
 [eslint]: https://npmjs.com/eslint
 [faucet]: https://npmjs.com/faucet
+[forever]: https://npmjs.com/forever
 [fraktur]: https://npmjs.com/fraktur
 [generator-gulp-webapp]: https://npmjs.com/generator-gulp-webapp
 [gulp]: https://npmjs.com/gulp
@@ -202,7 +206,9 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 [n]: https://npmjs.com/n
 [node-inspector]: https://npmjs.com/node-inspector
 [node-libs-browser]: https://npmjs.com/node-libs-browser
+[nodemon]: https://npmjs.com/nodemon
 [npmnpm]: https://npmjs.com/npm
+[pm2]: https://npmjs.com/pm2
 [redis-commander]: https://npmjs.com/redis-commander
 [standard]: https://npmjs.com/standard
 [tape]: https://npmjs.com/tape
