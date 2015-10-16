@@ -80,11 +80,15 @@ These are the [npm][npm] packages that are currently globally installed.
 - [node-inspector][node-inspector]
 - [node-libs-browser][node-libs-browser]
 - [nodemon][nodemon]
+- [np][np]
 - [npm][npmnpm]
 - [pm2][pm2]
+- [public-ip][public-ip]
 - [redis-commander][redis-commander]
+- [speed-test][speed-test]
 - [standard][standard]
 - [tape][tape]
+- [watchify][watchify]
 - [webpack][webpack]
 - [yo][yo]
 
@@ -249,3 +253,7 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 [termcolors]: https://github.com/mbadolato/iTerm2-Color-Schemes
 [purity]: https://github.com/therealklanni/purity
 [dotfiles]: https://dotfiles.github.io
+[watchify]: https://npmjs.com/watchify
+[np]: https://npmjs.com/np
+[public-ip]: https://npmjs.com/public-ip
+[speed-test]: https://npmjs.com/speed-test
