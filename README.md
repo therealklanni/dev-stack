@@ -56,7 +56,7 @@ Libs, compilers (and their ilk), obvious things like bash, and things that weren
 - [tree][tree]
 - [wget][wget]
 
-### [node][nodejs] 0.12 / [npm][npm] 3.1.2
+### [node][nodejs] 4.1.2 / [npm][npm] 3.3.7
 
 These are the [npm][npm] packages that are currently globally installed.
 
