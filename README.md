@@ -63,6 +63,7 @@ These are the [npm][npm] packages that are currently globally installed.
 - [babel][babel]
 - [bower][bower]
 - [bower-migrate][bower-migrate]
+- [browserify][browserify]
 - [dogesay][dogesay]
 - [eslint][eslint]
 - [faucet][faucet]
@@ -255,5 +256,6 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 [dotfiles]: https://dotfiles.github.io
 [watchify]: https://npmjs.com/watchify
 [np]: https://npmjs.com/np
+[browserify]: https://npmjs.com/browserify
 [public-ip]: https://npmjs.com/public-ip
 [speed-test]: https://npmjs.com/speed-test
