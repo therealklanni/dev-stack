@@ -13,7 +13,7 @@ MacBook Pro (Retina, 13-inch, Late 2013)
 
 ## The System
 
-OS X Yosemite 10.10.x
+OS X El Capitan 10.11.x
 
 ## The Terminal
 
