@@ -69,6 +69,7 @@ These are the [npm][npm] packages that are currently globally installed.
 - [eslint][eslint]
 - [faucet][faucet]
 - [forever][forever]
+- [foreman][foreman]
 - [fraktur][fraktur]
 - [generator-gulp-webapp][generator-gulp-webapp]
 - [gulp][gulp]
@@ -200,6 +201,7 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 [eslint]: https://npmjs.com/eslint
 [faucet]: https://npmjs.com/faucet
 [forever]: https://npmjs.com/forever
+[foreman]: https://github.com/strongloop/node-foreman
 [fraktur]: https://npmjs.com/fraktur
 [generator-gulp-webapp]: https://npmjs.com/generator-gulp-webapp
 [gulp]: https://npmjs.com/gulp
