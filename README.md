@@ -164,6 +164,7 @@ I'm using a [dark solarized][sublimesolar] ([atom][atomsolar]) theme on both edi
 - script
 - linter
 - linter-jscs
+- transpose-selection
 
 [brew]: http://brew.sh
 [tree]: http://brewformulas.org/tree
